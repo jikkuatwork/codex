@@ -24,3 +24,14 @@ Note
 
 - Looks like there is an mcp sdk
 - I wonder whether it can be used to easily implement a mcp client inside codex
+
+## Status
+
+The analysis is complete, but can you extend it?
+
+Can we extend the analysis with a section: Phased Development? I would like to
+split the implementation into several phases optimising for small early wins. I
+want to test something simple super early. Say: ability to add a simple MCP,
+call, execute it and see the results. Feel free to make it lack as many features
+as possible, but at every phase, we will have something to see & test. Also, I
+would prioritise visual, features as compared to deeper architectural ones.
